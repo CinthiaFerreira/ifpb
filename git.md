@@ -65,4 +65,8 @@ Acesso o repotisório remoto no github e verifique que o arquivo não foi adicio
 
         git push
 
+# Criando páginas estáticas
+
+Vamos utilizar o recurso de [Github Pages](https://pages.github.com/) para criar páginas da WEB estáticas.
+
 
